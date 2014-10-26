@@ -6,7 +6,7 @@ The dataset was further refined by eliminating all columns that did not represen
 For a full description of the raw variables please see the feature_info.txt file.  
 
 Codebook:
-The resultant dataset variables  were re-named to more more human-intelligible in the following manner:
+The resultant dataset variables  were re-named to be more human-intelligible in the following manner:
 t at the beginning of variables names became "time"
 Acc became "acceleration"
 Gyro became "gyroscope"
