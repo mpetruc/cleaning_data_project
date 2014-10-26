@@ -2,6 +2,7 @@ cleaning_data_project
 =====================
 The Human Activity Recognition Using Smartphones Dataset consists of two main files: test and train. In addition,  subject and activity files exist for each of test and train datasets. the list of features is contained in the features.txt files.
 The application reads these files, merges them as required, extracts relevant features, performs specific statistical tests and saves a tidy daset that includes the aggregate statistical results. The application funstion as follows:
+
 Step 1.Merges the training and the test sets to create one data set.
   Reads all required data files first
   Creates a working copy of the test and the training datasets
